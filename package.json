@@ -1,7 +1,10 @@
 {
-  "name": "Bot",
-  "version": "1.0.0",
+  "name": "bot",
+  "version": "0.0.1",
   "dependencies": {
     "discord.js": "latest"
+  },
+  "scripts": {
+    "run": "node ."
   }
 }
